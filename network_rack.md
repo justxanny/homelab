@@ -1,4 +1,4 @@
-# Hook and Ladder 8 - Network layout.
+# Hook and Ladder 8 - Network Rack
 
 ## 📡 UCG Ultra – Rear Port Connections (Left → Right)
 --------------------------------------------------
